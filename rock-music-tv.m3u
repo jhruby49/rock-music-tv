@@ -3,7 +3,8 @@
 #EXTINF:-1 tvg-id="rocktv" tvg-name="Rock TV" tvg-logo="https://raw.githubusercontent.com/jhruby49/rock-music-tv/main/rocktv.png" group-title="Music",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
-
+#EXTINF:-1 tvg-id="RetroTV.cz" tvg-name="Retro TV" tvg-logo="https://raw.githubusercontent.com/jhruby49/rock-music-tv/main/retrotv.png" group-title="Music",Retro TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rebeltv" tvg-name="Rebel TV" tvg-logo="https://raw.githubusercontent.com/jhruby49/rock-music-tv/main/rebeltv.png" group-title="Music",Rebel TV
 https://dash3.antik.sk/live/test_rebel/playlist.m3u8
